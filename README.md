@@ -4,4 +4,4 @@ Soy un estudiante de tercer año de <a href="http://www.sistemas.frba.utn.edu.ar
 
 ## Pueden saber mas de mi 
 - Visitando mi perfil de <a href="https://www.linkedin.com/in/juan-rigada-848952194">LinkedIn</a>
-- Leyendo mi CV en mi <a href="https://jrigada.github.io/online-cv/">pagina</a>
+- Leyendo mas <a href="https://jrigada.github.io/online-cv/">aca</a>
