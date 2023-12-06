@@ -1,7 +1,8 @@
 # Juan Rigada :computer:
 
-Soy un estudiante de cuarto año de <a href="http://www.sistemas.frba.utn.edu.ar/"> Ingenieria en Sistemas de Informacion</a> en la Universidad Tecnologica Nacional de Buenos Aires. Me apasiona modelar situaciones para resolver problemas y emprender proyectos que involucren la aplicacion de distintas tecnologias. Disfruto mucho trabajar con lenguajes como Elixir, Rust y Erlang. 
+I am a fourth-year student pursuing a degree in <a href="http://www.sistemas.frba.utn.edu.ar/">Information Systems Engineering</a> at the Technological National University of Buenos Aires. I have a passion for shaping situations to solve problems and embarking on projects that involve the application of various technologies. I thoroughly enjoy working with languages like Elixir, Rust, and Erlang.
 
-## Pueden saber mas de mi 
-- Visitando mi perfil de <a href="https://www.linkedin.com/in/juan-rigada-848952194">LinkedIn</a>
-- Leyendo mas <a href="https://jrigada.github.io/online-cv/">aca</a>
+If you want to know more about me
+Visit my <a href="https://www.linkedin.com/in/juan-rigada-848952194">LinkedIn</a> profile
+Dive deeper by reading more <a href="https://jrigada.github.io/online-cv/">here</a>
+This was not done with the help of AI; it was done entirely by AI 🤖✨
