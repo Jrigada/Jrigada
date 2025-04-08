@@ -6,3 +6,5 @@ I am a fifth-year student pursuing a degree in <a href="http://www.sistemas.frba
 - Visit my <a href="https://www.linkedin.com/in/juan-rigada-848952194">LinkedIn</a> profile
 </br>
 This was not done with the help of AI; it was done entirely by AI 🤖✨
+
+wid-0486a9
